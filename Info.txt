@@ -1,0 +1,5 @@
+Student_ID : 2313110351
+Student Name : Phubet Pasa
+Major : IT
+Level : 1
+Facully : Information Technology
